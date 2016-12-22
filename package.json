@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["preact", "remove", "control", "portal", "component"],
+  "author": "Matthew Mueller",
   "license": "ISC",
   "peerDependencies": {
     "preact": "^7.1.0"

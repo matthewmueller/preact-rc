@@ -23,12 +23,6 @@ class AlertBox extends Component {
 
   render (props, state = {}) {
     if (!props.message || state.hide) return null
-    return h(Error, props)
-  }
-}
-
-class Error extends Component {
-  render (props) {
     return h('div', { key: 'alert', style: 'background: red; color: white' }, props.message)
   }
 }
