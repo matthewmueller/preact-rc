@@ -1,6 +1,6 @@
 # Preact RC
 
-Remote control your Preact components! Here's a [demo](http://jsbin.com/cagirom/1/edit?html,js,output).
+Remote control your Preact components! Here's a [demo](http://jsbin.com/cagirom/2/edit?html,js,output).
 
 Trigger components from other parts of the virtual DOM tree without holding onto any of their state.
 
